@@ -1,0 +1,325 @@
+@media only screen and (min-width: $vp-medium) {
+  .header,
+  .page,
+  .footer {
+    flex: 0 1 auto;
+  }
+  p {
+    max-width: $vp-medium;
+  }
+}
+
+// Page
+// ------------------------------------------------------------------------- //
+.page {
+  padding-bottom: $xl;
+  flex: 1 1 auto;
+
+  & > * {
+    padding-right: $s;
+  }
+
+  @media only screen and (min-width: $vp-medium) {
+    padding-left: $xl;
+
+    & > * {
+      padding-right: $xl;
+    }
+  }
+
+
+}
+
+// Header
+// ------------------------------------------------------------------------- //
+.header {
+  padding: $s;
+  text-align: center;
+
+  @media only screen and (min-width: $vp-medium) {
+    text-align: left;
+    padding: $l;
+    padding-left: $xl;
+  }
+
+  .title {
+    font-size: $xl;
+    font-weight: $fw-medium;
+    color: $decoration-color;
+    margin-bottom: $m;
+  }
+  .subtitle,
+  .subtitle a {
+    font-size: $l;
+    color: $dark;
+  }
+
+}
+
+// Section
+// ------------------------------------------------------------------------- //
+.section {
+  padding-left: $s;
+  
+  @media only screen and (min-width: $vp-medium) {
+    padding-bottom: $l;
+  }
+
+  &.has-seperator{
+    border-top: dotted $border-width $border-color;
+    padding-top: $l;
+  }
+}
+
+// Contact
+// ------------------------------------------------------------------------- //
+.contact {}
+
+// Toc
+// ------------------------------------------------------------------------- //
+.toc {
+  &__item {
+    padding-top: $xs;
+    padding-bottom: $xs;
+    border-top: solid 1px $seperator-color;
+    max-width: $vp-medium;
+  }
+}
+
+// Footer
+// ------------------------------------------------------------------------- //
+.footer {
+  background-color: $dark;
+  color: $lighter;
+  padding: $s;
+  padding-bottom: $xl;
+  @media only screen and (min-width: $vp-medium) {
+    padding: $xl;
+
+  }
+  a {
+    color: $lighter;
+  }
+}
+
+// Image Block
+// ------------------------------------------------------------------------- //
+// Content Block
+// ------------------------------------------------------------------------- //
+// Canvas
+// ------------------------------------------------------------------------- //
+#canvas {
+  width: 100vw;
+  height: 600px;
+}
+
+// Gallery
+// ------------------------------------------------------------------------- //
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  row-gap: $m;
+  column-gap: $m;
+  padding-top: $s;
+  margin-bottom: $l;
+  &__item {
+    position: relative;
+    overflow: hidden;
+    
+    &::before {
+      content: "";
+      padding-bottom: 100%;
+      display: block;
+    }
+    &.is16by9::before {
+      padding-bottom: 56.25%;
+    }
+    img {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+  }
+}
+
+// Herotext
+// ------------------------------------------------------------------------- //
+.herotext {
+  font-size: $m;
+  font-weight: $fw-normal;
+  line-height: $lh-default;
+  @media only screen and (min-width: $vp-medium) {
+    font-size: $l;
+    font-weight: $fw-normal;
+  }
+}
+
+// Tabelle
+// ------------------------------------------------------------------------- //
+table {
+  table-layout: fixed;
+  margin-bottom: $xl;
+  width: 100%;
+  th,
+  td {
+    text-align: left;
+    font-size: $m;
+    padding: $xxs;
+    padding-right: $l;
+    border-top: solid 1px $seperator-color;
+    line-height: $lh-default;
+  }
+  td {
+    font-weight: $fw-medium;
+    width: 240px;
+    text-align: right;
+  }
+  th {
+    width: 80%;
+    font-weight: $fw-light;
+  }
+  tfoot {
+    tr {
+      th,
+      td {
+        font-weight: $fw-bold;
+      }
+    }
+  }
+  @media only screen and (min-width: $vp-small) {
+    width: 80%;
+  }
+  @media only screen and (min-width: $vp-large) {
+    width: 50%;
+  }
+}
+
+// Taglist
+// ------------------------------------------------------------------------- //
+.taglist {
+  &--linear li {
+    display: inline-block;
+  }
+  &__item {
+    &::before {
+      content: '#';
+      color: $decoration-color;
+    }
+  }
+}
+
+// Avatar
+// ------------------------------------------------------------------------- //
+.avatar {
+  border-radius: 50%;
+  width: 100%;
+  max-width: 300px;
+}
+
+// Course Overview
+// ------------------------------------------------------------------------- //
+.course-overview {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  row-gap: $m;
+  column-gap: $m;
+  padding-top: $s;
+  margin-bottom: $l;
+
+  &__item {
+    position: relative;
+    overflow: hidden;
+    font-weight: $fw-light;
+    color: $dark;
+    background-color: $lighten;
+    padding: $m $m $l $m;
+    transition: background-color $tr-fast, box-shadow $tr-fast;
+    display: flex;
+    flex-direction: column;
+
+    &:hover {
+      background-color: $light;
+      box-shadow: $shadow-m;
+    }
+    a {
+      font-weight: $fw-medium;
+      color: $dark;
+    }
+    .course-overview__item-headline a {
+      color: $darker;
+      font-weight: $fw-medium;
+      border: none;
+    }
+  }
+}
+
+// Feed Overview
+// ------------------------------------------------------------------------- //
+
+.feed{
+  &-overview{
+    width: calc(100% + #{$l});
+    overflow-x: auto;
+    padding-top: $s;
+    margin-bottom: $l;
+  }
+  
+  &-content {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  row-gap: $m;
+  column-gap: $m;
+  }
+  
+
+  &__item {
+    position: relative;
+    overflow: hidden;
+    font-weight: $fw-light;
+    color: $dark;
+    background-color: $lighten;
+    padding: $m;
+    transition: background-color $tr-fast, box-shadow $tr-fast;
+    display: flex;
+    flex-direction: column;
+    &:hover {
+      background-color: $light;
+      box-shadow: $shadow-m;
+    }
+    a {
+      font-weight: $fw-medium;
+      color: $dark;
+    }
+    &-headline a {
+      color: $darker;
+      font-weight: $fw-bold;
+    }
+  }
+}
+
+// Image Stripe
+// ------------------------------------------------------------------------- //
+
+.image-stripe{
+  height: 100vh;
+  overflow-x: hidden;
+  overflow-y: auto;
+
+  & > img{
+    display: block;
+  }
+}
+
+
+// Content
+// ------------------------------------------------------------------------- //
+
+.content{
+  height: 100vh;
+  overflow-x: hidden;
+  overflow-y: auto;
+
+}

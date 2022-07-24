@@ -1,0 +1,27 @@
+--- 
+
+layout: default 
+title: Christian Noss
+class: grid
+
+---
+
+<div class="section herotext">
+{% capture content %}{% include intro.html %}{% endcapture %}
+{{ content | markdownify }}
+</div>
+
+<section class="section has-seperator">
+  {% capture content %}{% include preparing-the-thesis.html %}{% endcapture %}
+  {{ content | markdownify }}
+  </section>
+
+<section class="section has-seperator">
+  {% capture content %}{% include working-on-the-thesis.html %}{% endcapture %}
+  {{ content | markdownify }}
+  </section>
+
+<section class="section">
+{% capture content %}{% include fields-of-interest.html %}{% endcapture %}
+{{ content | markdownify }}
+</section>

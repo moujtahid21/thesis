@@ -1,0 +1,39 @@
+site: Index Jekyll Theme
+
+target: https://index.jekyllthemes.io
+baseurl: 
+host: 172.20.10.4
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+  - scope:
+      path: "images/small"
+    values:
+      image: true
+
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  
+sass:
+  style: compressed
+
+plugins:
+  - jekyll-image-size
+
+collections:
+  lehrveranstaltungen:
+    output: false
+  feed:
+    output: true
+    
+## plugins:
+#  - jekyll-paginate
+#  - jekyll-sitemap
+
+  
