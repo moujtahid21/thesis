@@ -15,7 +15,7 @@
     & > * {
       padding-right: $xl;
     }
-    
+
     & > * > *{
       max-width: $max-width-content;
     }
@@ -44,15 +44,24 @@
   }
 
   .title {
-    font-size: $xl;
+    font-size: $l;
     font-weight: $fw-medium;
     color: $decoration-color;
     margin-bottom: $m;
   }
   .subtitle,
   .subtitle a {
-    font-size: $l;
+    font-size: $m;
     color: $dark;
+  }
+
+  @media only screen and (min-width: $vp-medium) {
+    .title{
+      font-size: $xl;
+    }
+    .subtitle, .subtitle a{
+      font-size: $l;
+    }
   }
 
 }

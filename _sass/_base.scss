@@ -58,12 +58,11 @@ h1{
 }
 
 h2{
-  font-size: $l;
+  font-size: $m;
   font-weight: $fw-medium;
   color: $darker;
   @media only screen and (min-width: $vp-medium) {
     font-size: $l;
-    font-weight: $fw-medium;
   }
 }
 
