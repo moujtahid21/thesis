@@ -2,7 +2,7 @@ site: Index Jekyll Theme
 
 target: https://index.jekyllthemes.io
 baseurl: 
-host: 172.20.10.4
+# host: 172.20.10.4
 
 defaults:
   - scope:

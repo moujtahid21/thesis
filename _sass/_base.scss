@@ -22,18 +22,9 @@ body{
 }
 
 blockquote{
-  font-family: $font-family-serif;
-  color: $headline-color;
-
-  &:before{
-    content: "«";
-    padding-right: 0.1em;
-  }
-
-  &:after{
-    content: "»";
-    padding-left: 0.1em;
-  }
+  background-color: $darken-light;
+  padding: $m;
+  border-left: solid $border-width $yellow;
 }
 
 
@@ -49,7 +40,7 @@ h2{
 }
 
 h3{
-  font-weight: $fw-bold;
+  font-weight: $fw-medium;
   color: $blue;
 }
 
@@ -96,6 +87,10 @@ p + h3{
 
 img{
   width: 100%;
+}
+
+em{
+  font-weight: $fw-normal;
 }
 
 a{

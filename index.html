@@ -14,12 +14,17 @@ class: grid
 <section class="section has-seperator">
   {% capture content %}{% include preparing-the-thesis.html %}{% endcapture %}
   {{ content | markdownify }}
-  </section>
+</section>
 
 <section class="section has-seperator">
   {% capture content %}{% include working-on-the-thesis.html %}{% endcapture %}
   {{ content | markdownify }}
-  </section>
+</section>
+
+<section class="section has-seperator">
+  {% capture content %}{% include after-finishing.html %}{% endcapture %}
+  {{ content | markdownify }}
+</section>
 
 <section class="section">
 {% capture content %}{% include fields-of-interest.html %}{% endcapture %}
