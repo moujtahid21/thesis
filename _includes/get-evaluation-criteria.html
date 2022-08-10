@@ -1,0 +1,4 @@
+{% for criteria in site.evaluation-criteria %}  
+  <h3>{{ criteria.title }}</h3>
+  <p>{{ criteria.content | markdownify }}</p>
+{% endfor %}

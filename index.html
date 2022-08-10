@@ -26,6 +26,11 @@ class: grid
   {{ content | markdownify }}
 </section>
 
+<section class="section has-seperator">
+  {% capture content %}{% include artefacts-and-evaluation.html %}{% endcapture %}
+  {{ content | markdownify }}
+</section>
+
 <section class="section">
 {% capture content %}{% include fields-of-interest.html %}{% endcapture %}
 {{ content | markdownify }}

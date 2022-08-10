@@ -27,7 +27,7 @@ plugins:
   - jekyll-image-size
 
 collections:
-  lehrveranstaltungen:
+  evaluation-criteria:
     output: false
   feed:
     output: true
