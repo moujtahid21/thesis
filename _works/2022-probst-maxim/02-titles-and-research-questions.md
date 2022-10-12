@@ -12,7 +12,9 @@
   Die Erstellung eines Prototypen in Unternehmensumgebung
 - Das Erstellen einer Softwarelösung zum Generieren von Webseiten in einer Unternehmensumgebung.
 - Eine Softwarelösung zum Generieren eines Frontends basierend auf einer XML-Vorlage.
-  Kontext: Großunternehmen
+  Kontext: Großunternehme
+ 
+ > Konzeption und Entwicklung eines Prototyps zur automatischen Generierung eines Web-Frontends auf Basis einer bestehenden XML-Vorlage im Kontext einer großen Mediengesellschaft. 
 
 # Forsschungsfragen un Ziele
 
