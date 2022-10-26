@@ -26,6 +26,25 @@
   }
 }
 
+
+// Home Button
+// ------------------------------------------------------------------------- //
+.home-button {
+  margin-top: $l;
+  margin-bottom: $l;
+
+  & > a{
+    text-decoration: none;
+    border: none;
+    transition: transform $tr-medium;
+
+    &:hover{
+      background-color: transparent;
+      transform: rotate(60deg);
+    }
+  }
+}
+
 // Page
 // ------------------------------------------------------------------------- //
 .page {

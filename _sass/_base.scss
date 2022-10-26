@@ -70,7 +70,9 @@ h3{
   font-size: $m;
 }
 
-
+h2 + h3{
+  margin-top: $l;
+}
 
 p{
   margin-bottom: $xs;
@@ -97,10 +99,11 @@ a{
   border-bottom: solid 2px $decoration-color;
 }
 
-ul.list{
+ul{
+  margin-bottom: $l;
   li{
     display: block;
-    margin-bottom: $s;
+    margin-bottom: $xxs;
     margin-left: $m;
 
     &::before{
