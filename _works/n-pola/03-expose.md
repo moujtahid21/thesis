@@ -1,4 +1,4 @@
-# Exposé
+# Prototypischen Entwicklung eines Systems zur Identifikation von Bouldern und Kletterrouten in geschlossenen Räumlichkeiten mit Hilfe von Smartphones
 
 ## Problemfeld und Kontext
 Bei den Sportarten Bouldern und (Sport-)klettern ist es das Ziel, eine vordefinierte Route, also eine Sammlung von festgelegten Griffen, Tritten und anderen Elementen, mit möglichst wenig Versuchen zu erklimmen. Bouldern findet ohne Seil und in vergleichsweise geringen und ungefährlichen Höhen statt. Der Boden in einer Halle besteht aus einem weichen Material, sodass Stürze gedämpft werden und man die Sportart alleine ausführen kann. Für das Sportklettern hingegen braucht man einen Partner, da es in deutlich größere Höhen geht und man permanent mit einem Seil gesichert werden muss.
