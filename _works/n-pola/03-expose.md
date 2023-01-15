@@ -44,7 +44,8 @@ BLE (Bluetooth low energy) Beacons sind Geräte, welche auf Basis des BLE Funkst
 #### WLAN
 Ein ähnliches Prinzip ließe sich mittels WLAN umsetzten. Hier könnte man eventuell auf bereits vorhandene Infrastruktur setzen, jedoch ist es fraglich, ob man mittels WLAN eine ausreichend hohe Präzision erreichen kann. Wenn dies nicht der Fall ist oder wenn keine Infrastruktur vorhanden ist, fallen zudem deutlich höhere Kosten im Vergleich zu BLE Beacons an.
 
-#### Audio bla blueb
+#### Auditive Positionierung
+Eine auditive Positionierung lässt sich theoretisch durch das Wiedergeben verschiedener, für Menschen nicht hörbarer, Frequenzen realisieren. Dazu werden in einem Raum Geräte verteilt, welche je eine eindeutige Frequenz ausgeben, welche dann von dem Mikrofon eines Smartphones aufgenommen werden können und anhand der unterschiedlichen Amplituden der Signale kann dann versucht werden, eine Position im Raum zu bestimmen.
 
 ### Object Detction / AR
 Im Folgenden sind eine Reihe von Ansätzen, welche auf einem Livevideo der Smartphonekamera und Computer Vision basieren, aufgelistet.
