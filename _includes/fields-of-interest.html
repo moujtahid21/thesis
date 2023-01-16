@@ -7,7 +7,7 @@
 <ul class="topic-overview is-full-width">
 {% for topic in topics %}
 
-<a class="wrap" href="{{topic.url | rel_url}}">
+<a class="wrap" href="{{topic.url | relative_url}}">
 <li class="topic-item">
     <h3>{{topic.title}}</h3>
     <p>{{topic.keywords}}</p>
