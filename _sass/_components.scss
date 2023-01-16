@@ -16,7 +16,7 @@
       padding-right: $xl;
     }
 
-    & > * > *{
+    & > * > *:not(.is-full-width){
       max-width: $max-width-content;
     }
   }
@@ -157,4 +157,51 @@
   border-radius: 50%;
   width: 100%;
   max-width: 300px;
+}
+
+
+// Topic Overview
+// ------------------------------------------------------------------------- //
+.topic-overview {
+  margin-top:$xl;
+  display: grid;
+  gap: $s;
+  grid-template-columns: repeat(auto-fill,minmax(16em,1fr));
+  
+  .topic-item{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+
+    &::before{
+      content: none;
+    }
+
+    margin-left: 0;
+    padding-bottom: $m;
+    
+    border-bottom: solid 3px $pink;
+  
+    h3{
+      padding-top: $m;
+      margin-bottom: $s;
+    }
+
+    p{
+      line-height: $lh-tight;
+    }
+
+  }
+}
+
+
+// Metadata
+// ------------------------------------------------------------------------- //
+
+.metadata{
+  dt, dd{
+    padding-top: $xs;
+    border-top: solid $border-width $green;
+  }
 }

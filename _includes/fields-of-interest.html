@@ -1,0 +1,17 @@
+{% assign topics = site.research-questions %}
+{% assign topics = topics | sort: 'name' %}
+
+
+## Aktuelle Themenvorschläge
+
+<ul class="topic-overview is-full-width">
+{% for topic in topics %}
+
+<a class="wrap" href="{{topic.url | rel_url}}">
+<li class="topic-item">
+    <h3>{{topic.title}}</h3>
+    <p>{{topic.keywords}}</p>
+</li>
+</a>
+{% endfor %}
+</ul>

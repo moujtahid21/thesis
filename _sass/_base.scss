@@ -94,11 +94,6 @@ em{
   font-weight: $fw-normal;
 }
 
-a{
-  color: $interaction-color;
-  border-bottom: solid 2px $decoration-color;
-}
-
 ul{
   margin-bottom: $l;
   li{
@@ -156,9 +151,15 @@ strong{
 }
 
 a{
+  color: $interaction-color;
+  text-decoration: none;
+}
+
+a:not(.wrap){
   text-decoration: none;
   transition: all 0.3s;
   font-weight: $fw-medium;
+  border-bottom: solid 2px $decoration-color;  
 
   &.extern::before{
     @extend .icon;

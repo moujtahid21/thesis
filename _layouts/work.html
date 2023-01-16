@@ -1,0 +1,19 @@
+--- 
+layout: default 
+---
+
+<section class="work">
+<h2>{{page.title}}</h2>
+
+
+  <dl class="metadata">
+    <dt>Keywords</dt>
+    <dd>{{page.keywords}}</dd>
+    <dt>Status</dt>
+    <dd>{{page.status}}</dd>
+    <dt>Datum</dt>
+    <dd>{{page.datum | date: "%d.%m.%Y"}}</dd>
+  </dl>
+
+  {{ content | markdownify }}
+</section>
