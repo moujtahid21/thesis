@@ -186,27 +186,13 @@ Das Ziel der Thesis sollen das Design und die Konzeption interaktive Visualisier
 
 ![DSRM Process Model nach Peffers](dsrm-process-model.png)
 
-Mittels der Forschungsfragen kann bereits das Problem umrissen werden. Im ersten Schritt kann das Problem dann weiter untersucht werden, um Einblicke in die Dimensionen zu erhalten. Für die Thesis wird dies mittels ausführlicher Literaturrecherche realisiert. Die dadurch entstandene Wissensbasis (Knowledge Base) dient dann zur Fokussierung des Anwendungsbereichs. Die Wissensbasis wird um die folgenden Themen aufgebaut:
-
-* Visualisierung und konkret die interaktive Visualisierung sowie das Design, die Möglichkeiten, Herausforderungen und verschiedenen Bereiche von Visualisierung (z.B. Informationsvisualisierung, Visualisierung wissenschaftlicher Daten)
-	* Design von Interaktion
-	* ggf. generative Visualisierungen?
-* Produktlebenszyklus und dessen Phasen
-* Kommunikation von Nachhaltigkeit durch Visualisierung
-	* User Experience
-	* Kommunikation von visuellen Artefakten
-* Beispiele von Visualisierung von Nachhaltigkeit und Visualisierung von Bereichen des Produktlebenszyklus
-	* z.B. vorhandene Nachhaltigkeitssiegel und deren Art der visuellen Darstellung
-	* Darstellung der SDGs und in den Reports
-	* Darstellung in CSR-Reports
-	* Infografiken zu bestehenden Nachhaltigkeitsthemen (bspw. CO2, Wasser, Enerie)
-* Prozess der Visualisierung: Daten(gewinnung) → Filter(bereinigung) → Konvertierung (auf Geometrie und Attribute) → Darstellung (je nach Perspektive, Anzeigetechnik)
-* Stakeholder- und Nutzungskontextanalyse (zu umfangreich?)
-* Umgang mit Daten
-* Stand der Technik
-
-Nachdem die Problemdefinition erfolgt ist, kann mit dem Designprozess begonnen werden. Erste Lösungsansätze werden gestaltet. Das konkrete Vorgehen ist Bestandteil der Thesis.
-
+1. Definition des Forschungsproblems: Untersuchen der Gestaltung von interaktiven Visualisierungen des Produktlebenszyklus
+2. Überprüfung des vorhandenen Wissens: Analyse des aktuellen Standes der Technik, um eine umfassende Literaturrecherche durchzuführen
+3. Definition der Ziele: Festlegen der Ziele, die die interaktiven Visualisierungen erreichen sollen
+4. Gestaltung des Konzepts: Erarbeitung eines Konzepts, das die Ziele erreichen und die Rahmenbedingungen berücksichtigen soll
+5. Erstellen des Prototyps: Erarbeitung eines Prototyps, der die Funktionalität und Usability der interaktiven Visualisierungen demonstrieren soll
+6. Evaluierung des Prototyps: Durchführung einer Evaluierung des Prototyps, um die Ziele zu erreichen
+7. Reflektion und Synthese: Reflektion der Ergebnisse und Synthese der Erkenntnisse
 
 **Referenzen**
 
