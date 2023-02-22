@@ -29,7 +29,7 @@ Based on the above, the following milestones can be distinguished:
 - Building a web application that demonstrates the modern capabilities of the Web Audio API
 - Exploring how working with sound might change in the future
 - Documentation of results
-- Preparing a repository with the application code and application the deployment
+- Preparing an application code repository and deploying the application
 
 Duration: 16 - 24 weeks
 
