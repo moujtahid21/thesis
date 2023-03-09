@@ -60,7 +60,18 @@ im hinblick auf die Zugänglichkeit analysiert werden.
 
 ## Chancen und Risiken
 
+Diese Arbeit bietet die Chance eine Website zugänglicher für alle zu gestalten und einen Beitrag für die Allgemeinheit
+zu leisten. Dazu legt diese Arbeit die Grundlage, auf welcher die erarbeiteten Optimierungsmöglichkeiten, für
+tchibo-mobile.de, umgesetzt werden können, bspw. in einer Bachelor-Thesis. Die Arbeit bietet zudem die Möglichkeit
+die eigenen Fähigkeiten und Kenntnisse im Bereich der Barrierefreihen Webentwicklung zu erweitern.
+
 ## Motivation
+
+Die Motivation für diese Arbeit stammt aus dem beruflichen Umfeld und dem Wunsch das Internet zugänglicher zu gestalten.
+Die Agentur brandung GmbH und Tchibo Mobile unterstützen das Projekt, da sie an einer barrierefreien Website
+interessiert sind. Zudem bietet das Projekt die Möglichkeit, die eigenen Fähigkeiten und Kenntnisse im Bereich der
+Barrierefreiheit zu erweitern und sich auf das Barrierefreiheitsstärkungsgesetz (BFSG) vorzubereiten, welches 2025 in
+Kraft tritt.
 
 ## Durchführungskontext und zeitliche Planung
 
