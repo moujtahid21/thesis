@@ -1,4 +1,4 @@
-# Barrierefreie Webanwendungen für Sehbehinderte - Eine Untersuchung der Problematik am Beispiel von Zeit-Online und mögliche Lösungsansätze
+# Zugänglichkeit visueller Inhalte für Sehbehinderte: Empirische Forschung und Lösungsansätze am Beispiel von Zeit-Online
 
 ## Problem & Kontext
 Bilder, Grafiken und Videos sind heute ein wichtiger Bestandteil von Webseiten und dienen der Vermittlung von Informationen sowie der Unterhaltung. Jedoch können Sehbehinderte Nutzer aufgrund von fehlenden oder unzureichenden Beschreibungen der visuellen Inhalte häufig nicht verstehen, was gezeigt wird. 
@@ -6,7 +6,7 @@ Bilder, Grafiken und Videos sind heute ein wichtiger Bestandteil von Webseiten u
 Dieses Problem wird durch die Tatsache verschärft, dass viele Webseitenbetreiber sich nicht an die gängigen Standards zur Barrierefreiheit halten. Ein weiteres Problem, ist, dass automatische Übersetzungs- und Vorlesefunktionen oft nicht in der Lage sind, den visuellen Inhalt der Bilder, Videos und Grafiken adäquat zu beschreiben.
 
 ## Ziel des Projekts
-Das Ziel dieses Praxisprojekts ist es, das Problem der unzureichenden Zugänglichkeit visueller Inhalte für Sehbehinderte zu untersuchen und mögliche Lösungsansätze zu erörtern.
+Insgesamt wir dieses Praxisprojekt dazu beitragen, das Bewusstsein für die Herausforderungen und Schwierigkeiten zu erhöhen, mit denen Sehbehinderte konfrontiert sind, wenn sie visuelle Inhalte konsumieren. Darüber hinaus wird es mögliche Lösungsansätze aufzeigen, die dazu beitragen können, die Zugänglichkeit für Sehbehinderte zu verbessern. Die dokumentierte Recherche wird als wichtige Quelle zur zukünftige Forschung und Entwicklung von Technologien und Strategien, im Rahmen der Bachelorarbeit, dienen. Diese zielen darauf ab, die Barrierefreiheit für Sehbehinderte zu verbessern.
 
 ## Komkrete Aufgaben
 * Analyse der aktuellen Situation und bestehenden Barrieren für Sehbehinderte bei der Nutzung von Webanwendungen.

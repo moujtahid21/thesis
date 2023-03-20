@@ -3,6 +3,7 @@
 * Barrierefreie Webanwendungen für Sehbehinderte - Eine Untersuchung der Problematik am Beispiel von Zeit-Online und mögliche Lösungsansätze
 * Verbesserung der Zugänglichkeit von Online Zeitungsportale für Sehbehinderte unter Berücksichtigung der WACG-Normen
     * Am Beispiel von zeit.de
+* Zugänglichkeit visueller Inhalte für Sehbehinderte: Empirische Forschung und Lösungsansätze am Beispiel von Zeit-Online
 * ...
 
 ## Forschungsfragen
