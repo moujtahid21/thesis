@@ -32,7 +32,7 @@ Insgesamt wir dieses Praxisprojekt dazu beitragen, das Bewusstsein für die Hera
 Stammt aus persönlichem Interesse an UI/UX-Research.
 
 ## Benötigte Ressourcen:
-* WCAG 2.1 [https://www.w3.org/WAI/standards-guidelines/wcag/] Internationale Web-Standards des W3C zur barrierefreien Gestaltung von Internetangeboten.
+* Web content accessibility guidelines (WCAG) 2.1 [https://www.w3.org/WAI/standards-guidelines/wcag/] Internationale Web-Standards des Worldwide Web Consortium (W3C) zur barrierefreien Gestaltung von Internetangeboten.
 * Statistiken zur Evaluation der Lösungsansätze [https://www.destatis.de/DE/Home/_inhalt.html]
 * Zeit-Online [https://www.zeit.de/] zur Analyse der Zugänglichkeit
 
