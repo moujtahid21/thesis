@@ -2,7 +2,7 @@
 title: Darstellung der Bezüge zwischen den Werken des Cranach Digital Archives
 keywords: Data Visualisation, Interactive Art, Generative Gestaltung, UX
 layout: work
-status: Vorschlag
+status: proposal
 datum: 15.01.2023
 ---
 

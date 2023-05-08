@@ -2,7 +2,7 @@
 title: Kartenbasierte Darstellung von Artefakten des Cranach Digital Archives
 keywords: Data Visualisation, UX
 layout: work
-status: Vorschlag
+status: proposal
 datum: 15.01.2023
 ---
 
