@@ -2,7 +2,7 @@
 title: Alternativtexte für Bilder via KI
 keywords: Accessibility, KI, Bildanalyse
 layout: work
-status: proposal
+status: in-progress
 datum: 15.01.2023
 ---
 

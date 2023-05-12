@@ -2,7 +2,7 @@
 title: Energieeffizienz von Web-Anwendungen
 keywords: WebDev, Sustainability
 layout: work
-status: proposal
+status: in-progress
 datum: 15.01.2023
 ---
 

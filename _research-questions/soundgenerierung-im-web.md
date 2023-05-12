@@ -2,7 +2,7 @@
 title: Soundgenerierung mit Webtechnologien
 keywords: Audio, WebDev
 layout: work
-status: proposal
+status: in-progress
 datum: 15.01.2023
 ---
 
