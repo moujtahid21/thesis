@@ -2,11 +2,15 @@
 
 <!-- Bitte notieren Sie mindestens 10 mögliche Titel der Arbeit und mindestens 5 mögliche Forschungsfragen/ Zielsetzungen in dieses Dokument.  -->
 
+# Titel Praxisprojekt
+
+**Technologiescouting für AR-Inhalte im Web, am Beispiel des Kooperationsprojektes “ARlebnispfad OBK”**
+
+# Möglicher Titel Bachelorarbeit
+
+**Prototypische Umsetzung und Evaluation der Nutzung und Darstellung von AR-Inhalten im Web, am Beispiel des Kooperationsprojektes “ARlebnispfad OBK”**
+
 # Mögliche Titel
-
-- **Prototypische Umsetzung und Evaluation der Nutzung und Darstellung von AR-Inhalten im Web, am Beispiel des Kooperationsprojektes “ARlebnispfad OBK”**
-
-<br>
 
 - Augmented Reality im Web - Eine Analyse technischer Möglichkeiten am Beispiel des “ARlebnispfad OBK”
 - AR im Web - Eine technische Analyse von Möglichkeiten und Herausforderungen
