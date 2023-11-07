@@ -23,9 +23,6 @@ kramdown:
 sass:
   style: compressed
 
-plugins:
-  - jekyll-image-size
-
 collections:
   evaluation-criteria:
     output: false

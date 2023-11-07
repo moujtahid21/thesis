@@ -2,8 +2,8 @@
 title: Soundgenerierung mit Webtechnologien
 keywords: Audio, WebDev
 layout: work
-status: in-progress
-datum: 15.01.2023
+status: proposal
+datum: 07.11.2023
 ---
 
 Was geht eigentlich derzeit in Sachen Soundgenerierung und -verarbeitung mit Webtechnologien?

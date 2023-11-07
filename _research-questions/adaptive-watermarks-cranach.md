@@ -2,7 +2,7 @@
 title: Adaptive Wasserzeichen Lucas Cranach
 keywords: WebDev, Massenbildbearbeitung, WebArch
 layout: work
-status: proposal
+status: in-progress
 datum: 11.05.2023
 ---
 
