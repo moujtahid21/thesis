@@ -13,11 +13,19 @@ Die Driver-App wurde schnell auf den Markt gebracht und dabei ist die Gestaltung
 Im Rahmen der Bachelorarbeit wird nun eine Neugestaltung der Driver-App durchgeführt. Das Vorgehen basiert auf der Analyse des Praxisprojektes.
 
 ## Problemraum
-In dem Praxisprojekt wurde die Driver-App ausführlich analysiert. In dieser Arbeit steht nun das User Interfaces des Auslieferungsprozesses im Vordergrund. Der Auslieferungsprozess beschreibt den Vorgang in dem das Produkt dem Kunden übergeben wird. Dazu gehören die jeweiligen Schritte in der Driver-App zur Dokumentation der Auslieferung. Dabei wurden einige Schwächen, ein nicht optimaler Ablauf sowie unübersichtliche Screens aufgedeckt. Dieser Bereich ist einer der Wichtigsten in dem Auslieferungsprozess. Aufgrund dessen soll dieser optimiert und verbessert werden. Hierfür wird der Prozess noch einmal genauer analysiert und hinterfragt um diesen Vorgang zu verbessern. Zu den Problemen gehören unter anderem nciht berücksichtigte Anwendungsfälle, überflüssige Schritt, schlechte Anordnung der eeinzelnen Objekte sowie gestalterische Schwächen.
+In dem Praxisprojekt wurde die Driver-App ausführlich analysiert. In dieser Arbeit steht nun das User Interfaces des Auslieferungsprozesses im Vordergrund. Der Auslieferungsprozess beschreibt den Vorgang in dem das Produkt dem Kunden übergeben wird. Dazu gehören die jeweiligen Schritte in der Driver-App zur Dokumentation der Auslieferung. Dabei wurden einige Schwächen, ein nicht optimaler Ablauf sowie unübersichtliche Screens aufgedeckt. Dieser Bereich ist einer der Wichtigsten in dem Auslieferungsprozess. Aufgrund dessen soll dieser optimiert und verbessert werden. Hierfür wird der Prozess noch einmal genauer analysiert und hinterfragt um diesen Vorgang zu verbessern. Zu den Problemen gehören unter anderem nicht berücksichtigte Anwendungsfälle, überflüssige Schritt, schlechte Anordnung der einzelnen Objekte sowie gestalterische Schwächen.
+
+## Titel
+
+apomap - Neugestaltung des UX Designs des Auslieferungsprozesses der Driver-Applikation
+
+Neugestaltung des UX Designs des Auslieferungsprozesses der apomap Driver-Applikation
+
 
 ## Forschungsfragen
 
-Mit welchen Methoden des UX Design kann das User Interfaces des Auslieferungsprozesses der apomap Driver-Applikation otimiert werden?
+Wie kann das UX Design gestaltet werden, um den Auslieferungsprozess der apomap Driver-Applikation zu verbessern?
+
 
 ## Motivation
 
