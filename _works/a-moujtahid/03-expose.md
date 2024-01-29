@@ -1,42 +1,49 @@
-# Zugänglichkeit visueller Inhalte für Sehbehinderte: Empirische Forschung und Lösungsansätze am Beispiel von Zeit-Online
+# Vorhersage von Herz-Kreislauf-Erkrankungen
 
 ## Problem & Kontext
-Bilder, Grafiken und Videos sind heute ein wichtiger Bestandteil von Webseiten und dienen der Vermittlung von Informationen sowie der Unterhaltung. Jedoch können Sehbehinderte Nutzer aufgrund von fehlenden oder unzureichenden Beschreibungen der visuellen Inhalte häufig nicht verstehen, was gezeigt wird. 
+Herz-Kreislauf-Erkrankungen (HKE) sind nach wie vor ein weltweites Gesundheitsproblem, das innovative Ansätze zur Früherkennung und Prävention erfordert. Dieses Forschungsprojekt zielt darauf ab, Datenanalysetechniken zu nutzen, um HKE-Risiken auf der Grundlage von Lebensstilfaktoren vorherzusagen. Das Verständnis der Wechselwirkung zwischen individuellen Entscheidungen und kardiovaskulärer Gesundheit ist entscheidend für die Entwicklung gezielter Präventionsstrategien.
 
-Dieses Problem wird durch die Tatsache verschärft, dass viele Webseitenbetreiber sich nicht an die gängigen Standards zur Barrierefreiheit halten. Ein weiteres Problem, ist, dass automatische Übersetzungs- und Vorlesefunktionen oft nicht in der Lage sind, den visuellen Inhalt der Bilder, Videos und Grafiken adäquat zu beschreiben.
+Angesichts der steigenden Verbreitung von chronischen Herzerkrankungen und ihrer erheblichen Auswirkungen auf die öffentliche Gesundheit kann die Entwicklung von Vorhersagemodellen auf der Grundlage von Lebensstilfaktoren dem Einzelnen und den Angehörigen der Gesundheitsberufe wertvolle Erkenntnisse für proaktive Maßnahmen liefern. Diese Forschung trägt zum sich entwickelnden Bereich der Präzisionsmedizin bei, indem Präventionsmaßnahmen auf individuelle Risikoprofile zugeschnitten werden.
 
 ## Ziel des Projekts
-Insgesamt wir dieses Praxisprojekt dazu beitragen, das Bewusstsein für die Herausforderungen und Schwierigkeiten zu erhöhen, mit denen Sehbehinderte konfrontiert sind, wenn sie visuelle Inhalte konsumieren. Darüber hinaus wird es mögliche Lösungsansätze aufzeigen, die dazu beitragen können, die Zugänglichkeit für Sehbehinderte zu verbessern. Die dokumentierte Recherche wird als wichtige Quelle zur zukünftige Forschung und Entwicklung von Technologien und Strategien, im Rahmen der Bachelorarbeit, dienen. Diese zielen darauf ab, die Barrierefreiheit für Sehbehinderte zu verbessern.
+Das Hauptziel dieses Projektes ist die Entwicklung von Vorhersagemodellen, die das HKE-Risiko einer Person auf der Grundlage ihrer Lebensgewohnheiten genau einschätzen. Dazu müssen die wichtigsten Lebensstilfaktoren ermittelt werden, die wesentlich zum HKE-Risiko beitragen, und ein zuverlässiges Modell für die Risikobewertung entwickelt werden.
+
+Das Verständnis des Zusammenhangs zwischen Lebensstil und chronischen Herzerkrankungen ist entscheidend für eine personalisierte Gesundheitsversorgung. Es soll ein solider Rahmen zur frühzeitigen Risikoerkennung geschaffen und gezielte Maßnahmen zur Verringerung der Belastung durch HKE ermöglicht werden.
+
+## Forschungsstand
+Eine kurze Übersicht über die vorhandene Literatur zu chronischen Herz-Krankheitsrisiken und Vorhersagemodelle. Dieser Abschnitt zeigt die Lücken in der aktuellen Forschung auf und unterstreicht die Notwendigkeit eines datengestützten Ansatzes, der die Komplexität der Einflüsse des Lebensstils auf die kardiovaskuläre Gesundheit berücksichtigt.
+Auf der Grundlage etablierter Theorien der Epidemiologie, des Gesundheitsverhaltens und der Datenwissenschaft werden in dieser Untersuchung Konzepte integriert, um ein umfassendes Verständnis dafür zu entwickeln. wie Lebensstilfaktoren zum HKE-Risiko beitragen. Theoretische Grundlagen leiten die Entwicklung von Hypothesen und die Auswahl geeigneter Methoden.
 
 ## Komkrete Aufgaben
-* Analyse der aktuellen Situation und bestehenden Barrieren für Sehbehinderte bei der Nutzung von Webanwendungen.
-* Identifikation von Best Practices und Standards für barrierefreie Webanwendungen.
-* Entwicklung von konkreten Lösungsansätze in ausgewählten Webanwendungen.
-* Dokumentation der Lösungsansätze in ausgewählten Webanwendungen.
-* Evaluation der Wirksamkeit der Lösungsansätze.
+
+Inwieweit können Lebensstilfaktoren das individuelle Risiko für chronische Herzerkrankungen vorhersagen?
+
+Die Hypothese lautet, dass bestimmte Lebensstilfaktoren wie Ernährung, körperliche Aktivität und Stressniveau wesentlich zur Variabilität des HKE-Risikos beitragen. Durch die Analyse umfassender Datensätze erwarten wir die Entwicklung eines Modells, das die bestehenden Risikobewertungsinstrumente übertrifft. 
+
+Bei den Forschungsarbeiten werden fortgeschrittene Datenanalysetechniken, einschließlich Algorithmen des maschinellen Lernens, eingesetzt um Muster und Beziehungen innerhalb eines vielfältigen Datensatzes von Personen zu erkennen. Zu den Datenquellen gehören demografische Informationen, Gesundheitsaufzeichnungen und Lebensstilprofile. Die Methodik wird iterativ sein und eine Modellverfeinerung und -validierung beinhalten.
+
 
 ## Lösungsansätze
-* Verwendung von alternativem Text (alt-Tags) für Bilder und Grafiken
-* Verwendung von ausreichend hohem Kontrast und Schriftgröße
-* Verwendung von barrierefreien Formularen und Steuerelementen
-* Einsatz von assitiven Tools (z.B. Screenreader, Sprachsteuerung)
+* Vorbereitung der Daten (Datenerhebung und -bereinigung)
+* Modellentwicklungen
+* Iterative Verfeinerungen der Modelle
+* Statistische Analyse
+* Modellvalidierung
 
 ## Chancen und Risiken
 ### Chancen:
-* Steigerung der Barrierefreiheit einer Webanwendung
-* Verbesserung der Nutzerfreundlichkeit dieser Webanwendung
-* Grundlage für eine Bachelorarbeit
-* Eigene Fähigkeiten und Kenntnisse im Bereich der barrierefreien Web-Entwicklung zu erweitern.
+
 
 ## Motivation
-Stammt aus persönlichem Interesse an UI/UX-Research.
+Stammt aus persönlichem Interesse an Datenwissenschaften.
 
 ## Benötigte Ressourcen:
-* Web content accessibility guidelines (WCAG) 2.1 [https://www.w3.org/WAI/standards-guidelines/wcag/] Internationale Web-Standards des Worldwide Web Consortium (W3C) zur barrierefreien Gestaltung von Internetangeboten.
-* Statistiken zur Evaluation der Lösungsansätze [https://www.destatis.de/DE/Home/_inhalt.html]
-* Zeit-Online [https://www.zeit.de/] zur Analyse der Zugänglichkeit
+* [Das BRFSS CSV Datensatz](https://www.kaggle.com/datasets/dariushbahrami/cdc-brfss-survey-2021/data).
+* [Implementation of a Heart Disease Risk Prediction Model using machine Learning](https://www.hindawi.com/journals/cmmm/2022/6517716/)
+* [Ursachen für HKEs](https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds))
+
+
 
 ## Schlussfolgerung
-Zusammenfassend kann festgestellt werden, dass die mangelnde Barrierefreiheit von Webanwendungen für Sehbehinderte ein bedeutendes Problem darstellt und diese Personen oft von der Nutzung von Webanwendungen ausschließt. Das Projektziel besteht darin, Lösungsansätze zu entwickeln und zu dokumentieren, um die Bedienbarkeit von Zeit-Online für Sehbehinderte zu verbessern und die Barrierefreiheit zu erhöhen. 
-
+In Zusammenfassung zielt dieses Projekt darauf ab, mittels Datenanalyse ein präzises Modell zur Vorhersage von Herz-Kreislauf-Erkrankungsrisiken basierend auf Lebensstilfaktoren zu entwickeln. Die Anwendung fortschrittlicher Datenanalysetechniken und maschinellen Lernens soll ein zuverlässiges Instrument für die individuelle Risikobewertung schaffen.
 
