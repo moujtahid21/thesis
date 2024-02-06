@@ -36,6 +36,9 @@ Stammt aus persönlichem Interesse an Datenwissenschaften.
 ## Benötigte Ressourcen:
 * [Das BRFSS CSV Datensatz](https://www.kaggle.com/datasets/dariushbahrami/cdc-brfss-survey-2021/data).
 * [Implementation of a Heart Disease Risk Prediction Model using machine Learning](https://www.hindawi.com/journals/cmmm/2022/6517716/)
+* B. A. Goldstein, A. M. Navar, and R. E. Carter, [“Moving beyond regression techniques in cardiovascular risk pre-diction: Applying machine learning to address analytic challenges”](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5837244/), European heart journal
+* K. V. V. Reddy, I. Elamvazuthi, A. A. Aziz, S. Parama-sivam, H. N. Chua, and S. Pranavanand, [“Heart disease risk prediction using machine learning classifiers with attribute evaluators”](https://www.mdpi.com/2076-3417/11/18/8352), Applied Sciences, vol. 11, no. 18, 8352, 2021
+*  S. Nusinovici, Y. C. Tham, M. Y. C. Yan, et al., [“Lo-gistic regression was as good as machine learning for predicting major chronic diseases”](https://pubmed.ncbi.nlm.nih.gov/32169597/) Journal of clinical epidemiology, vol. 122, pp. 56–69, 2020.
 * [Ursachen für HKEs](https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds))
 
 ## Schlussfolgerung
