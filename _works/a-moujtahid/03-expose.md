@@ -14,7 +14,7 @@ Das Verständnis des Zusammenhangs zwischen Lebensstil und chronischen Herzerkra
 Eine kurze Übersicht über die vorhandene Literatur zu chronischen Herz-Krankheitsrisiken und Vorhersagemodelle. Dieser Abschnitt zeigt die Lücken in der aktuellen Forschung auf und unterstreicht die Notwendigkeit eines datengestützten Ansatzes, der die Komplexität der Einflüsse des Lebensstils auf die kardiovaskuläre Gesundheit berücksichtigt.
 Auf der Grundlage etablierter Theorien der Epidemiologie, des Gesundheitsverhaltens und der Datenwissenschaft werden in dieser Untersuchung Konzepte integriert, um ein umfassendes Verständnis dafür zu entwickeln. wie Lebensstilfaktoren zum HKE-Risiko beitragen. Theoretische Grundlagen leiten die Entwicklung von Hypothesen und die Auswahl geeigneter Methoden.
 
-## Komkrete Aufgaben
+## Konkrete Aufgaben
 
 Inwieweit können Lebensstilfaktoren das individuelle Risiko für chronische Herzerkrankungen vorhersagen?
 
