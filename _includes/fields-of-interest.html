@@ -11,7 +11,7 @@
 <li class="topic-item">
     <h3>{{topic.title}}</h3>
     <p>{{topic.datum | date: "%d.%m.%Y" }}</p>
-    <p>{{topic.keywords}}</p>
+    <ul class="keywords">{% for list-item in topic.keywords %}<li>{{list-item}}</li>{% endfor %}</ul>
 </li>
 </a>
 {% endfor %}

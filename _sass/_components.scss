@@ -205,3 +205,16 @@
     border-top: solid $border-width $green;
   }
 }
+
+// Keywords
+// ------------------------------------------------------------------------- //
+
+.keywords{
+  li{
+    display: inline;
+  }
+
+  li + li::before{
+    content:",";
+  }
+}

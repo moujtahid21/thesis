@@ -94,7 +94,7 @@ em{
   font-weight: $fw-normal;
 }
 
-ul{
+ul:not([class]){
   margin-bottom: $l;
   li{
     display: block;
@@ -102,10 +102,10 @@ ul{
     margin-left: $m;
 
     &::before{
-      content:"-";
+      content:"»";
       margin-left: -$m;
       padding-right: $s;
-      color: $seperator-color;
+      color: $icon-color;
       font-weight: $fw-bold;
     }
   }
