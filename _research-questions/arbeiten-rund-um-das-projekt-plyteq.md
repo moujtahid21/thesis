@@ -22,14 +22,14 @@ In diesem Kontext werden Studierende mit Dev, Design und UX Skills gesucht, mit 
 
 Hierzu würde ich mit dem Team von PLYTEQ zunächst einen kleinen Design Thinking/ Ideenworkshop anbieten. Daraus sollten dann idealerweise konkrete Ideen für Abschlussarbeiten (bzw. Praxisprojekte) im Bachelor und Master entstehen. Ein paar kontrete Ideen zu Themen gibt es bereits (siehe unten).
 
-Für den Workshop stehen derzeit zwei Termine zur Disposition: 29.02.2024 oder 22.03.2024
-Es stehen folgende Örtlichkeiten zur Auswahl: Gummersbach oder Köln Deutz
+Für den Workshop stehen derzeit zwei Termine zur Disposition: 29.02.2024 oder 22.03.2024. 
+Es stehen folgende Örtlichkeiten zur Auswahl: Gummersbach oder Köln Deutz.
 
 Falls Interesse besteht, bitte eine E-Mail an mich oder an [contact@plyteq.com](contact@plyteq.com) mit Angaben zum bevorzugten Termin und Ort.
 
 
 - Konzeptionierung eines KI-basierten Chatbots zur Optimierung des Facility Managements
-Autonome Optimierung von Bestandsautomatisierungen durch Methoden der Künstlichen Intelligenz/Reinforcement Learning
+- Autonome Optimierung von Bestandsautomatisierungen durch Methoden der Künstlichen Intelligenz/Reinforcement Learning
 - Extraktion von Informationen aus Planungs- und Herstellerunterlagen zur Integration in den digitalen Zwilling von Anlagen/Gebäuden mit Methoden der Künstlichen Intelligenz (NLP, Computer Vision)
 - BIM vs. Industrie 4.0 - Synergien zwischen BIM und dem digitalen Zwilling der Industrie​
 Plattformintegration von KPIs inkl. automatisierter Bereitstellung von Handlungsempfehlungen​ 
