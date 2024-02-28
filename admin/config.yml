@@ -1,8 +1,9 @@
 # config.yml
-local_backend: true
+# local_backend: true
 
 backend:
   name: git-gateway
+  repo: cnoss/thesis
   branch: main # Branch to update (optional; defaults to master)
 
 media_folder: 'assets/uploads'
