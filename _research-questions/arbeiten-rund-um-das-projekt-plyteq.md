@@ -24,9 +24,9 @@ Hierzu machen wir mit dem Team von PLYTEQ zunächst einen kleinen Design Thinkin
 
 ---
 
-### Workshop  
-14. März 2024  
-14:00 Uhr  
+### Ideenworkshop 
+14\. März 2024  
+13:00 Uhr  
 Raum 3.215  
 Campus Gummersbach
 
