@@ -10,6 +10,15 @@ keywords:
   - App
   - KI
 ---
+
+
+<iframe width="315" height="560" style="float: left; margin-right: 1em"
+src="https://www.youtube.com/embed/LKH273QRp-E"
+title="YouTube video player"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+allowfullscreen></iframe>
+
 PLYTEQ ist eine Ausgründung aus den Forschungsaktivitäten des Instituts für Technische Gebäudeausrüstung und wird im Rahmen des Programms StartUp-Transfer.NRW durch die EU-Förderinitiative EFRE unterstützt. 
 
 **PLYTEQ entwickelt die Smart Watch für Gebäude!**
