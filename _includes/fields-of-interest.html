@@ -1,4 +1,4 @@
-{% assign topics = site.research-questions %}
+{% assign topics = site.research-questions | where: "status", "proposal" %}
 {% assign topics = topics | sort: 'name' %}
 
 
@@ -10,7 +10,8 @@
 <a class="wrap" href="{{topic.url | relative_url}}">
 <li class="topic-item">
     <h3>{{topic.title}}</h3>
-    <p>{{topic.keywords}}</p>
+    <p>{{topic.datum | date: "%d.%m.%Y" }}</p>
+    <ul class="keywords">{% for list-item in topic.keywords %}<li>{{list-item}}</li>{% endfor %}</ul>
 </li>
 </a>
 {% endfor %}

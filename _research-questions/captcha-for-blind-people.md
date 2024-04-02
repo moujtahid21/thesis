@@ -2,7 +2,7 @@
 title: Capchas für Menschen mit Sehbehinderungen
 keywords: Accessibility, Web-Security, UX
 layout: work
-status: Vorschlag
+status: proposal
 datum: 15.01.2023
 ---
 

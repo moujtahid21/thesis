@@ -8,7 +8,11 @@ layout: default
 
   <dl class="metadata">
     <dt>Keywords</dt>
-    <dd>{{page.keywords}}</dd>
+    <dd>
+      <ul class="keywords">
+      {% for list-item in page.keywords %}<li>{{list-item}}</li>{% endfor %}
+      </ul>
+    </dd>
     <dt>Status</dt>
     <dd>{{page.status}}</dd>
     <dt>Datum</dt>

@@ -14,7 +14,12 @@ class: grid
 <section class="section has-seperator">
   {% capture content %}{% include fields-of-interest.html %}{% endcapture %}
   {{ content | markdownify }}
-  </section>
+</section>
+
+<section class="section" style="margin-top: 3em; ">
+  {% capture content %}{% include shift-2024.html %}{% endcapture %}
+  {{ content | markdownify }}
+</section>
 
 <section class="section has-seperator">
   {% capture content %}{% include preparing-the-thesis.html %}{% endcapture %}
@@ -36,7 +41,4 @@ class: grid
   {{ content | markdownify }}
 </section>
 
-<section class="section">
-  Mein Leitfaden für die <a href="notes-on-code/">Bewertung von Code Repositories</a>.
-</section>
 

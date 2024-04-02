@@ -1,0 +1,31 @@
+# config.yml
+local_backend: true
+
+backend:
+  name: git-gateway
+  repo: cnoss/thesis
+  branch: main # Branch to update (optional; defaults to master)
+
+media_folder: 'assets/uploads'
+
+collections:
+  - name: 'research-questions'
+    label: 'Proposals'
+    folder: '_research-questions'
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'work' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Datum', name: 'datum', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - label: "Status"
+        name: "status"
+        widget: "select"
+        options: ["proposal", "in-progress", "finished"]
+      - label: "Keywords"
+        name: "keywords"
+        widget: "list"
+        allow_add: true
+        default: ["Design"]
